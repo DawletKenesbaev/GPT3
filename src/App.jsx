@@ -3,7 +3,6 @@ import React from 'react'
 import Navbar from './components/navbar'
 import Brand from './components/brand'
 import CTA from './components/cta'
-import Features from './components/feature'
 
 
 
@@ -11,6 +10,7 @@ import Header from './container/header'
 import Footer from './container/footer'
 import Blog from './container/blog'
 import WhatGPT3 from './container/whatGPT3'
+import Features  from './container/features'
 import Possibility from './container/possibility'
 
 
